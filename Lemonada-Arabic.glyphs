@@ -92,13 +92,13 @@ name = rlig;
 fontMaster = (
 {
 alignmentZones = (
-"{1019, 16}",
+"{1075, 16}",
 "{710, 16}",
 "{575, 26}",
 "{0, -25}",
 "{-566, -16}"
 );
-ascender = 1019;
+ascender = 1075;
 capHeight = 710;
 descender = -566;
 horizontalStems = (
@@ -121,13 +121,13 @@ xHeight = 575;
 },
 {
 alignmentZones = (
-"{1019, 16}",
+"{1124, 16}",
 "{710, 16}",
 "{575, 26}",
 "{0, -25}",
 "{-566, -16}"
 );
-ascender = 1019;
+ascender = 1124;
 capHeight = 710;
 descender = -566;
 horizontalStems = (
@@ -27189,7 +27189,7 @@ unicode = 0671;
 },
 {
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-11-22 00:34:32 +0000";
+lastChange = "2015-12-05 19:54:49 +0000";
 layers = (
 {
 anchors = (
@@ -31055,7 +31055,7 @@ unicode = 0688;
 },
 {
 glyphname = "ddal-ar.fina";
-lastChange = "2015-11-22 21:37:22 +0000";
+lastChange = "2015-12-05 19:56:06 +0000";
 layers = (
 {
 anchors = (
