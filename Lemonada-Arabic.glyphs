@@ -16,7 +16,7 @@ name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 }
 );
-date = "2015-11-30 00:04:03 +0000";
+date = "2015-12-05 19:59:40 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaberism.net/";
 familyName = "Lemonada-Arabic";
@@ -121,13 +121,13 @@ xHeight = 575;
 },
 {
 alignmentZones = (
-"{1124, 16}",
+"{1187, 16}",
 "{710, 16}",
 "{575, 26}",
 "{0, -25}",
 "{-566, -16}"
 );
-ascender = 1124;
+ascender = 1187;
 capHeight = 710;
 descender = -566;
 horizontalStems = (
@@ -31000,7 +31000,7 @@ unicode = FEAC;
 },
 {
 glyphname = "ddal-ar";
-lastChange = "2015-11-22 21:37:27 +0000";
+lastChange = "2015-12-05 19:58:14 +0000";
 layers = (
 {
 anchors = (
