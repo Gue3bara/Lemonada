@@ -16,7 +16,7 @@ name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 }
 );
-date = "2015-12-05 19:59:40 +0000";
+date = "2015-12-09 01:31:13 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaberism.net/";
 familyName = "Lemonada-Arabic";
@@ -4065,7 +4065,7 @@ unicode = 0120;
 {
 color = 10;
 glyphname = H;
-lastChange = "2015-10-18 16:59:44 +0000";
+lastChange = "2015-12-09 01:04:23 +0000";
 layers = (
 {
 anchors = (
@@ -54423,17 +54423,57 @@ rightKerningGroup = CR;
 },
 {
 glyphname = .notdef;
-lastChange = "2015-10-18 16:59:44 +0000";
+lastChange = "2015-12-09 01:07:26 +0000";
 layers = (
 {
 layerId = "833A345D-F5FC-4136-BC05-A08F75A897C3";
 name = "Light Italic";
-width = 300;
+paths = (
+{
+closed = 1;
+nodes = (
+"-49 -25 LINE",
+"584 -25 LINE",
+"700 710 LINE",
+"67 710 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"65 40 LINE",
+"162 644 LINE",
+"587 644 LINE",
+"491 40 LINE"
+);
+}
+);
+width = 633;
 },
 {
 layerId = "72FD83BD-A9F6-48B4-8CEA-331AE6F11CF9";
 name = "Bold Italic";
-width = 300;
+paths = (
+{
+closed = 1;
+nodes = (
+"-49 -25 LINE",
+"584 -25 LINE",
+"700 710 LINE",
+"67 710 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"180 105 LINE",
+"258 580 LINE",
+"471 580 LINE",
+"394 105 LINE"
+);
+}
+);
+width = 633;
 }
 );
 leftKerningGroup = .notdef;
