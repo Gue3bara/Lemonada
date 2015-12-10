@@ -14,6 +14,10 @@ value = "http://scripts.sil.org/OFL";
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = "1KTF";
 }
 );
 date = "2015-12-09 01:31:13 +0000";
