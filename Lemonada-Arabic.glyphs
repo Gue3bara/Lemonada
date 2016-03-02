@@ -5,7 +5,7 @@ code = "";
 name = DevaIMatras;
 }
 );
-copyright = "Copyright 2015 Mohamed Gaber (gaber@gaberism.net)";
+copyright = "Copyright 2015 The Lemonada Project Authors.";
 customParameters = (
 {
 name = licenseURL;
@@ -18,12 +18,17 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = vendorID;
 value = "1KTF";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2015-12-09 01:31:13 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaberism.net/";
-familyName = "Lemonada-Arabic";
+familyName = "Lemonada";
 featurePrefixes = (
 {
 automatic = 1;
@@ -112,7 +117,6 @@ horizontalStems = (
 35
 );
 id = "833A345D-F5FC-4136-BC05-A08F75A897C3";
-italicAngle = 9;
 verticalStems = (
 59,
 46,
@@ -141,7 +145,6 @@ horizontalStems = (
 86
 );
 id = "72FD83BD-A9F6-48B4-8CEA-331AE6F11CF9";
-italicAngle = 9;
 verticalStems = (
 146,
 112,
@@ -70344,11 +70347,12 @@ name = Regular;
 },
 {
 interpolationWeight = 172;
-name = "Semi Bold";
+name = SemiBold;
 weightClass = SemiBold;
 },
 {
 interpolationWeight = 200;
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }
