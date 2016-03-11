@@ -5,5 +5,5 @@
 # Names should be added to this file as: 
 # Name or Organization <email address> 
 
-Mohamed Gaber <gaber@gaberism.net> 
+Mohamed Gaber <gaber@gaberism.net>
 Eduardo Rodríguez Tunni <edu@tipo.net.ar>
