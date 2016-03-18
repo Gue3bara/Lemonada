@@ -6,7 +6,7 @@ code = "";
 name = DevaIMatras;
 }
 );
-copyright = "Copyright 2015 The Lemonada Project Authors.";
+copyright = "Copyright 2011 The Lemonada Project Authors (gaber@gaberism.net)";
 customParameters = (
 {
 name = licenseURL;
@@ -27,8 +27,8 @@ value = (
 }
 );
 date = "2016-03-11 12:55:48 +0000";
-designer = "Mohamed Gaber";
-designerURL = "http://gaberism.net/";
+designer = "Mohamed Gaber (Arabic) Eduardo Tunni (Latin)";
+designerURL = "http://gaberism.net";
 familyName = Lemonada;
 featurePrefixes = (
 {
