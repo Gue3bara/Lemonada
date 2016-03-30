@@ -107,9 +107,9 @@ alignmentZones = (
 "{0, -25}",
 "{-566, -16}"
 );
-ascender = 1075;
+ascender = 2758;
 capHeight = 710;
-descender = -566;
+descender = -653;
 horizontalStems = (
 38,
 26,
