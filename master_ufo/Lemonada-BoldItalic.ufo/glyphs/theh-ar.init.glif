@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh-ar.init" format="2">
+  <advance width="421"/>
+  <unicode hex="FE9B"/>
+  <anchor x="142" y="-100" name="bottom"/>
+  <anchor x="321" y="1060" name="top"/>
+  <outline>
+    <component base="dotlessbeh-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="-23" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 13:45:33</string>
+    </dict>
+  </lib>
+</glyph>

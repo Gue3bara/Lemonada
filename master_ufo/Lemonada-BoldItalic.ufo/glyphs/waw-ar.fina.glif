@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="waw-ar.fina" format="2">
+  <advance width="824"/>
+  <unicode hex="FEEE"/>
+  <anchor x="239" y="-450" name="bottom"/>
+  <anchor x="376" y="675" name="top"/>
+  <outline>
+    <contour>
+      <point x="624" y="-25" type="line"/>
+      <point x="774" y="-25" type="line"/>
+      <point x="800" y="136" type="line"/>
+      <point x="661" y="136" type="line"/>
+    </contour>
+    <component base="waw-ar"/>
+    <component base="connection_r" xOffset="773"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:14:38</string>
+    </dict>
+  </lib>
+</glyph>

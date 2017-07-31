@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehMarbutagoal-ar.fina" format="2">
+  <advance width="694"/>
+  <anchor x="210" y="-163" name="bottom"/>
+  <anchor x="374" y="874" name="top"/>
+  <outline>
+    <component base="hehgoal-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="137" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:13:52</string>
+    </dict>
+  </lib>
+</glyph>

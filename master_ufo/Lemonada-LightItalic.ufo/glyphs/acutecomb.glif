@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="206" y="575" name="_top"/>
+  <anchor x="259" y="885" name="top"/>
+  <outline>
+    <contour>
+      <point x="126" y="675" type="curve" smooth="yes"/>
+      <point x="161" y="675"/>
+      <point x="266" y="741"/>
+      <point x="375" y="741" type="curve"/>
+      <point x="381" y="752"/>
+      <point x="384" y="769"/>
+      <point x="384" y="790" type="curve" smooth="yes"/>
+      <point x="384" y="827"/>
+      <point x="368" y="845"/>
+      <point x="333" y="845" type="curve" smooth="yes"/>
+      <point x="267" y="845"/>
+      <point x="234" y="774"/>
+      <point x="94" y="719" type="curve"/>
+      <point x="100" y="689"/>
+      <point x="111" y="675"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/06/02 01:46:26</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>476</integer>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 2}</string>
+          <key>target</key>
+          <string>{0, 8}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

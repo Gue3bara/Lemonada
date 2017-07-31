@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMadda-ar.fina" format="2">
+  <advance width="504"/>
+  <unicode hex="FE82"/>
+  <anchor x="199" y="-100" name="bottom"/>
+  <anchor x="303" y="987" name="top"/>
+  <outline>
+    <component base="alef-ar.fina.short"/>
+    <component base="madda-ar" xOffset="75" yOffset="234"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 13:41:10</string>
+    </dict>
+  </lib>
+</glyph>

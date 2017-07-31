@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="2">
+  <advance width="856"/>
+  <unicode hex="0110"/>
+  <anchor x="481" y="710" name="top"/>
+  <anchor x="226" y="355" name="center"/>
+  <anchor x="356" y="0" name="bottom"/>
+  <outline>
+    <component base="Eth"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/11 12:35:10</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

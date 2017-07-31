@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefHamzabelow-ar.fina" format="2">
+  <advance width="340"/>
+  <unicode hex="FE88"/>
+  <anchor x="66" y="-389" name="bottom"/>
+  <anchor x="219" y="826" name="top"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="hamzabelow-ar" xOffset="54" yOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 13:41:06</string>
+    </dict>
+  </lib>
+</glyph>

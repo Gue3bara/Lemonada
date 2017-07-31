@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveSukun-ar" format="2">
+  <advance width="258"/>
+  <anchor x="144" y="521" name="_top"/>
+  <anchor x="232" y="1081" name="top"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="1"/>
+    <component base="sukun-ar" xOffset="52" yOffset="326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/29 13:15:18</string>
+    </dict>
+  </lib>
+</glyph>

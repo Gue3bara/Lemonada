@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevetilde" format="2">
+  <advance width="746"/>
+  <unicode hex="1EB5"/>
+  <anchor x="499" y="1144" name="top"/>
+  <anchor x="669" y="24" name="ogonek"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb" xOffset="156"/>
+    <component base="tildecomb" xOffset="187" yOffset="271"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/18 16:59:44</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

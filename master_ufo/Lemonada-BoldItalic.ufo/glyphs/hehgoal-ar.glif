@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoal-ar" format="2">
+  <advance width="757"/>
+  <unicode hex="06C1"/>
+  <anchor x="337" y="-100" name="bottom"/>
+  <anchor x="460" y="675" name="top"/>
+  <outline>
+    <component base="heh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/27 03:21:27</string>
+    </dict>
+  </lib>
+</glyph>

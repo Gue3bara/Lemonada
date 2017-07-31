@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="2">
+  <advance width="819"/>
+  <unicode hex="03C0"/>
+  <anchor x="178" y="0" name="bottom"/>
+  <anchor x="336" y="24" name="ogonek"/>
+  <anchor x="280" y="575" name="top"/>
+  <outline>
+    <contour>
+      <point x="583" y="-25" type="curve" smooth="yes"/>
+      <point x="622" y="-25"/>
+      <point x="664" y="-9"/>
+      <point x="702" y="24" type="curve"/>
+      <point x="681" y="42"/>
+      <point x="672" y="74"/>
+      <point x="672" y="113" type="curve" smooth="yes"/>
+      <point x="672" y="240"/>
+      <point x="743" y="476"/>
+      <point x="743" y="526" type="curve"/>
+      <point x="541" y="503" type="line"/>
+      <point x="514" y="364"/>
+      <point x="467" y="167"/>
+      <point x="467" y="97" type="curve" smooth="yes"/>
+      <point x="467" y="18"/>
+      <point x="499" y="-25"/>
+    </contour>
+    <contour>
+      <point x="216" y="-25" type="curve" smooth="yes"/>
+      <point x="255" y="-25"/>
+      <point x="296" y="-9"/>
+      <point x="334" y="24" type="curve"/>
+      <point x="314" y="42"/>
+      <point x="304" y="74"/>
+      <point x="304" y="113" type="curve" smooth="yes"/>
+      <point x="304" y="240"/>
+      <point x="375" y="476"/>
+      <point x="376" y="526" type="curve"/>
+      <point x="174" y="503" type="line"/>
+      <point x="147" y="364"/>
+      <point x="100" y="167"/>
+      <point x="100" y="97" type="curve" smooth="yes"/>
+      <point x="100" y="18"/>
+      <point x="132" y="-25"/>
+    </contour>
+    <contour>
+      <point x="199" y="445" type="curve" smooth="yes"/>
+      <point x="340" y="445"/>
+      <point x="480" y="472"/>
+      <point x="614" y="472" type="curve" smooth="yes"/>
+      <point x="688" y="472"/>
+      <point x="771" y="466"/>
+      <point x="812" y="457" type="curve"/>
+      <point x="824" y="479"/>
+      <point x="830" y="504"/>
+      <point x="830" y="531" type="curve" smooth="yes"/>
+      <point x="830" y="585"/>
+      <point x="799" y="601"/>
+      <point x="694" y="601" type="curve" smooth="yes"/>
+      <point x="553" y="601"/>
+      <point x="414" y="574"/>
+      <point x="280" y="574" type="curve" smooth="yes"/>
+      <point x="206" y="574"/>
+      <point x="120" y="580"/>
+      <point x="81" y="589" type="curve"/>
+      <point x="69" y="567"/>
+      <point x="63" y="542"/>
+      <point x="63" y="515" type="curve" smooth="yes"/>
+      <point x="63" y="461"/>
+      <point x="94" y="445"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/18 16:59:44</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>place</key>
+          <string>{118, 206}</string>
+        </dict>
+        <dict>
+          <key>place</key>
+          <string>{481, 206}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{616, -20}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{-25, 21}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{600, -20}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{1, 8}</string>
+          <key>target</key>
+          <string>{1, 13}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{0, 12}</string>
+          <key>target</key>
+          <string>{0, 5}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{2, 23}</string>
+          <key>target</key>
+          <string>{2, 14}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

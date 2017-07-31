@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dad-ar" format="2">
+  <advance width="1480"/>
+  <unicode hex="0636"/>
+  <anchor x="925" y="-100" name="bottom"/>
+  <anchor x="1087" y="912" name="top"/>
+  <outline>
+    <component base="sad-ar"/>
+    <component base="dotabove-ar" xOffset="941" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 14:44:02</string>
+    </dict>
+  </lib>
+</glyph>

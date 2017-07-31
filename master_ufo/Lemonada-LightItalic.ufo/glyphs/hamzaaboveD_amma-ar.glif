@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveDamma-ar" format="2">
+  <advance width="275"/>
+  <anchor x="161" y="521" name="_top"/>
+  <anchor x="260" y="1146" name="top"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="18"/>
+    <component base="damma-ar" xOffset="52" yOffset="325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/29 13:15:04</string>
+    </dict>
+  </lib>
+</glyph>

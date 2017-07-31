@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="2">
+  <advance width="700"/>
+  <unicode hex="003D"/>
+  <outline>
+    <component base="minus" xOffset="-20" yOffset="-125"/>
+    <component base="minus" xOffset="20" yOffset="125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/09 00:43:20</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>minus</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

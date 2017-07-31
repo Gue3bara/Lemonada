@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dal-ar.fina" format="2">
+  <advance width="673"/>
+  <unicode hex="FEAA"/>
+  <anchor x="195" y="-100" name="bottom"/>
+  <anchor x="318" y="670" name="top"/>
+  <outline>
+    <contour>
+      <point x="559" y="-25" type="curve" smooth="yes"/>
+      <point x="623" y="-25" type="line"/>
+      <point x="637" y="60" type="line"/>
+      <point x="598" y="60" type="line" smooth="yes"/>
+      <point x="532" y="60"/>
+      <point x="495" y="107"/>
+      <point x="495" y="175" type="curve"/>
+      <point x="413" y="27" type="line"/>
+      <point x="503" y="27" type="line"/>
+      <point x="469" y="44" type="line"/>
+      <point x="483" y="4"/>
+      <point x="512" y="-25"/>
+    </contour>
+    <component base="dal-ar" yOffset="1"/>
+    <component base="connection_r" xOffset="623"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 13:50:41</string>
+    </dict>
+  </lib>
+</glyph>

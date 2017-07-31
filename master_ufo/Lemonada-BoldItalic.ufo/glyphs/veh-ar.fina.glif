@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="veh-ar.fina" format="2">
+  <advance width="1390"/>
+  <unicode hex="FB6B"/>
+  <anchor x="828" y="-100" name="bottom"/>
+  <anchor x="1037" y="1161" name="top"/>
+  <outline>
+    <component base="dotlessfeh-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="695" yOffset="74"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 14:49:23</string>
+    </dict>
+  </lib>
+</glyph>

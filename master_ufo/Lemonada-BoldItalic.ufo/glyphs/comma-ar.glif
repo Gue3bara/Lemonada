@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma-ar" format="2">
+  <advance width="332"/>
+  <unicode hex="060C"/>
+  <outline>
+    <component base="comma" xScale="-1" yScale="-1" xOffset="296" yOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/26 00:50:19</string>
+    </dict>
+  </lib>
+</glyph>

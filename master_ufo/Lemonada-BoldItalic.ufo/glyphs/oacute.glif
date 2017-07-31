@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oacute" format="2">
+  <advance width="719"/>
+  <unicode hex="00F3"/>
+  <anchor x="456" y="886" name="top"/>
+  <anchor x="647" y="10" name="ogonek"/>
+  <anchor x="299" y="0" name="bottom"/>
+  <anchor x="548" y="524" name="topright"/>
+  <anchor x="370" y="288" name="center"/>
+  <outline>
+    <component base="o"/>
+    <component base="acutecomb" xOffset="197"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/18 16:59:44</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

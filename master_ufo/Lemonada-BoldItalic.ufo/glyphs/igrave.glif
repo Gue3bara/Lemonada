@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="2">
+  <advance width="388"/>
+  <unicode hex="00EC"/>
+  <anchor x="245" y="886" name="top"/>
+  <anchor x="302" y="24" name="ogonek"/>
+  <anchor x="143" y="0" name="bottom"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="gravecomb" xOffset="57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/18 16:59:44</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

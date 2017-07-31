@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaAlefabove-ar" format="2">
+  <advance width="267"/>
+  <anchor x="160" y="555" name="_top"/>
+  <anchor x="239" y="1057" name="top"/>
+  <outline>
+    <component base="shadda-ar"/>
+    <component base="alefabove-ar" xOffset="93" yOffset="251"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/29 23:52:07</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dammatan-ar" format="2">
+  <unicode hex="064C"/>
+  <anchor x="207" y="506" name="_top"/>
+  <anchor x="260" y="837" name="top"/>
+  <outline>
+    <contour>
+      <point x="85" y="549" type="curve" smooth="yes"/>
+      <point x="98" y="520"/>
+      <point x="126" y="517"/>
+      <point x="195" y="550" type="curve" smooth="yes"/>
+      <point x="240" y="572"/>
+      <point x="323" y="618"/>
+      <point x="353" y="640" type="curve" smooth="yes"/>
+      <point x="409" y="681"/>
+      <point x="421" y="743"/>
+      <point x="389" y="794" type="curve" smooth="yes"/>
+      <point x="358" y="843"/>
+      <point x="307" y="849"/>
+      <point x="255" y="817" type="curve" smooth="yes"/>
+      <point x="191" y="778"/>
+      <point x="170" y="709"/>
+      <point x="206" y="655" type="curve" smooth="yes"/>
+      <point x="212" y="646" type="line"/>
+      <point x="145" y="613" type="line"/>
+      <point x="142" y="649"/>
+      <point x="141" y="703"/>
+      <point x="153" y="722" type="curve"/>
+      <point x="131" y="738"/>
+      <point x="114" y="738"/>
+      <point x="104" y="738" type="curve" smooth="yes"/>
+      <point x="81" y="738"/>
+      <point x="64" y="726"/>
+      <point x="64" y="679" type="curve" smooth="yes"/>
+      <point x="64" y="644"/>
+      <point x="73" y="574"/>
+    </contour>
+    <contour>
+      <point x="315" y="688" type="curve"/>
+      <point x="304" y="682"/>
+      <point x="289" y="675"/>
+      <point x="269" y="706" type="curve" smooth="yes"/>
+      <point x="251" y="734"/>
+      <point x="252" y="759"/>
+      <point x="276" y="773" type="curve"/>
+      <point x="293" y="782"/>
+      <point x="312" y="770"/>
+      <point x="323" y="752" type="curve" smooth="yes"/>
+      <point x="336" y="731"/>
+      <point x="334" y="712"/>
+      <point x="332" y="701" type="curve"/>
+      <point x="326" y="696"/>
+      <point x="323" y="693"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/04 00:11:55</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>337</integer>
+    </dict>
+  </lib>
+</glyph>

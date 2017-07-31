@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehDoachashmee-ar.fina" format="2">
+  <advance width="1541"/>
+  <unicode hex="FBAB"/>
+  <anchor x="658" y="-200" name="bottom"/>
+  <anchor x="983" y="836" name="top"/>
+  <outline>
+    <contour>
+      <point x="1272" y="-25" type="line"/>
+      <point x="1491" y="-25" type="line"/>
+      <point x="1517" y="136" type="line"/>
+      <point x="1364" y="136" type="line"/>
+    </contour>
+    <component base="hehDoachashmee-ar"/>
+    <component base="connection_r" xOffset="1490"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:22:26</string>
+    </dict>
+  </lib>
+</glyph>

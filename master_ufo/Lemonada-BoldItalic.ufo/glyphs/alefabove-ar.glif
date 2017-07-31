@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefabove-ar" format="2">
+  <unicode hex="0670"/>
+  <anchor x="141" y="561" name="_top"/>
+  <anchor x="142" y="805" name="top"/>
+  <outline>
+    <contour>
+      <point x="126" y="581" type="curve" smooth="yes"/>
+      <point x="155" y="581"/>
+      <point x="169" y="597"/>
+      <point x="169" y="630" type="curve" smooth="yes"/>
+      <point x="169" y="668"/>
+      <point x="164" y="706"/>
+      <point x="164" y="744" type="curve" smooth="yes"/>
+      <point x="164" y="757"/>
+      <point x="169" y="778"/>
+      <point x="172" y="787" type="curve"/>
+      <point x="145" y="800"/>
+      <point x="128" y="805"/>
+      <point x="109" y="805" type="curve" smooth="yes"/>
+      <point x="88" y="805"/>
+      <point x="77" y="793"/>
+      <point x="77" y="772" type="curve" smooth="yes"/>
+      <point x="77" y="731"/>
+      <point x="88" y="678"/>
+      <point x="88" y="635" type="curve" smooth="yes"/>
+      <point x="88" y="619"/>
+      <point x="86" y="599"/>
+      <point x="84" y="592" type="curve"/>
+      <point x="96" y="585"/>
+      <point x="110" y="581"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/04 00:11:25</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>116</integer>
+    </dict>
+  </lib>
+</glyph>

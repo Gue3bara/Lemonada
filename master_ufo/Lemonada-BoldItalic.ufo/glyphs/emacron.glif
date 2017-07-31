@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacron" format="2">
+  <advance width="661"/>
+  <unicode hex="0113"/>
+  <anchor x="463" y="844" name="top"/>
+  <anchor x="453" y="0" name="ogonek"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <outline>
+    <component base="e"/>
+    <component base="macroncomb" xOffset="171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/09 00:42:05</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

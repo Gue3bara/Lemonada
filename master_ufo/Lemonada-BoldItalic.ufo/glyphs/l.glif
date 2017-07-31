@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+  <advance width="385"/>
+  <unicode hex="006C"/>
+  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="205" y="377" name="center"/>
+  <anchor x="260" y="725" name="top"/>
+  <anchor x="345" y="575" name="topright"/>
+  <outline>
+    <contour>
+      <point x="183" y="-25" type="curve" smooth="yes"/>
+      <point x="221" y="-25"/>
+      <point x="270" y="-9"/>
+      <point x="307" y="24" type="curve"/>
+      <point x="289" y="46"/>
+      <point x="276" y="65"/>
+      <point x="276" y="132" type="curve" smooth="yes"/>
+      <point x="276" y="357"/>
+      <point x="365" y="605"/>
+      <point x="365" y="704" type="curve" smooth="yes"/>
+      <point x="365" y="754"/>
+      <point x="343" y="775"/>
+      <point x="280" y="775" type="curve" smooth="yes"/>
+      <point x="219" y="775"/>
+      <point x="149" y="743"/>
+      <point x="93" y="702" type="curve"/>
+      <point x="149" y="622" type="line"/>
+      <point x="123" y="472"/>
+      <point x="70" y="195"/>
+      <point x="70" y="119" type="curve" smooth="yes"/>
+      <point x="70" y="22"/>
+      <point x="102" y="-25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/21 22:59:30</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

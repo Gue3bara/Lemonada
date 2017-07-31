@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlongcomb" format="2">
+  <unicode hex="0338"/>
+  <anchor x="199" y="378" name="_center"/>
+  <outline>
+    <component base="slash"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/18 16:59:44</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>slash</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>398</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>slash</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

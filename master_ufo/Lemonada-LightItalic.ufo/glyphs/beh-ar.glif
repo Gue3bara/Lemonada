@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh-ar" format="2">
+  <advance width="969"/>
+  <unicode hex="0628"/>
+  <anchor x="394" y="-287" name="bottom"/>
+  <anchor x="531" y="575" name="top"/>
+  <outline>
+    <component base="dotlessbeh-ar"/>
+    <component base="dotbelow-ar" xOffset="417" yOffset="-16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/27 20:02:59</string>
+    </dict>
+  </lib>
+</glyph>

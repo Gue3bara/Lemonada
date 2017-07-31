@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMaksura-ar.medi" format="2">
+  <advance width="366"/>
+  <unicode hex="FBE9"/>
+  <anchor x="91" y="-85" name="bottom"/>
+  <anchor x="201" y="600" name="top"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 13:44:52</string>
+    </dict>
+  </lib>
+</glyph>

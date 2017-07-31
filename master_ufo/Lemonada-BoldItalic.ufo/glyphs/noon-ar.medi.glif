@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noon-ar.medi" format="2">
+  <advance width="481"/>
+  <unicode hex="FEE8"/>
+  <anchor x="167" y="-100" name="bottom"/>
+  <anchor x="322" y="862" name="top"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="dotabove-ar" xOffset="113" yOffset="-41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 14:57:56</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khah-ar.medi" format="2">
+  <advance width="935"/>
+  <unicode hex="FEA8"/>
+  <anchor x="316" y="-100" name="bottom"/>
+  <anchor x="465" y="830" name="top"/>
+  <outline>
+    <component base="hah-ar.medi"/>
+    <component base="dotabove-ar" xOffset="306" yOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 13:49:54</string>
+    </dict>
+  </lib>
+</glyph>

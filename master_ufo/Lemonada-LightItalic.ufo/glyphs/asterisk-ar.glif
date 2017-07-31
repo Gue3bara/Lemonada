@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk-ar" format="2">
+  <advance width="592"/>
+  <unicode hex="066D"/>
+  <outline>
+    <component base="asterisk"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/26 00:47:33</string>
+    </dict>
+  </lib>
+</glyph>

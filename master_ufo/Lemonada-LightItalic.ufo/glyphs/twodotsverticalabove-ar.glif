@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotsverticalabove-ar" format="2">
+  <unicode hex="FBBD"/>
+  <anchor x="127" y="676" name="_top"/>
+  <anchor x="170" y="948" name="top"/>
+  <outline>
+    <contour>
+      <point x="151" y="831" type="curve" smooth="yes"/>
+      <point x="196" y="831"/>
+      <point x="227" y="859"/>
+      <point x="227" y="900" type="curve" smooth="yes"/>
+      <point x="227" y="929"/>
+      <point x="205" y="948"/>
+      <point x="171" y="948" type="curve" smooth="yes"/>
+      <point x="127" y="948"/>
+      <point x="95" y="920"/>
+      <point x="95" y="878" type="curve" smooth="yes"/>
+      <point x="95" y="850"/>
+      <point x="117" y="831"/>
+    </contour>
+    <contour>
+      <point x="130" y="696" type="curve" smooth="yes"/>
+      <point x="175" y="696"/>
+      <point x="206" y="724"/>
+      <point x="206" y="765" type="curve" smooth="yes"/>
+      <point x="206" y="794"/>
+      <point x="184" y="813"/>
+      <point x="150" y="813" type="curve" smooth="yes"/>
+      <point x="106" y="813"/>
+      <point x="74" y="785"/>
+      <point x="74" y="743" type="curve" smooth="yes"/>
+      <point x="74" y="715"/>
+      <point x="96" y="696"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/02 01:42:17</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>131</integer>
+    </dict>
+  </lib>
+</glyph>

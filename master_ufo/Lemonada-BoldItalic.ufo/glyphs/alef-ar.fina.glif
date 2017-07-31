@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alef-ar.fina" format="2">
+  <advance width="503"/>
+  <unicode hex="FE8E"/>
+  <anchor x="200" y="-55" name="bottom"/>
+  <anchor x="305" y="815" name="top"/>
+  <outline>
+    <contour>
+      <point x="414" y="-25" type="curve" smooth="yes"/>
+      <point x="453" y="-25" type="line"/>
+      <point x="479" y="136" type="line"/>
+      <point x="283" y="136" type="line"/>
+      <point x="232" y="14" type="line"/>
+      <point x="309" y="-18"/>
+      <point x="360" y="-25"/>
+    </contour>
+    <component base="alef-ar"/>
+    <component base="connection_r" xOffset="452"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 14:00:56</string>
+    </dict>
+  </lib>
+</glyph>

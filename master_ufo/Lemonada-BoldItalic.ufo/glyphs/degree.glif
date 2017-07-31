@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="482"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <component base="zero.numr" yScale="0.95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/27 03:26:23</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>place</key>
+          <string>{50, 139}</string>
+        </dict>
+        <dict>
+          <key>place</key>
+          <string>{329, 141}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{467, 86}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{756, 88}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

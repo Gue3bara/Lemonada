@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="2">
+  <advance width="781"/>
+  <unicode hex="0059"/>
+  <anchor x="308" y="-200" name="bottom"/>
+  <anchor x="454" y="710" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="81" y="-242" type="curve" smooth="yes"/>
+      <point x="481" y="-242"/>
+      <point x="730" y="237"/>
+      <point x="730" y="639" type="curve" smooth="yes"/>
+      <point x="730" y="691"/>
+      <point x="708" y="726"/>
+      <point x="677" y="726" type="curve" smooth="yes"/>
+      <point x="655" y="726"/>
+      <point x="644" y="724"/>
+      <point x="603" y="704" type="curve"/>
+      <point x="621" y="675"/>
+      <point x="627" y="642"/>
+      <point x="627" y="599" type="curve" smooth="yes"/>
+      <point x="627" y="20"/>
+      <point x="262" y="-165"/>
+      <point x="115" y="-165" type="curve" smooth="yes"/>
+      <point x="25" y="-165"/>
+      <point x="-8" y="-130"/>
+      <point x="-32" y="-105" type="curve"/>
+      <point x="-39" y="-120"/>
+      <point x="-46" y="-141"/>
+      <point x="-46" y="-157" type="curve" smooth="yes"/>
+      <point x="-46" y="-205"/>
+      <point x="-9" y="-242"/>
+    </contour>
+    <contour>
+      <point x="409" y="-30" type="curve"/>
+      <point x="468" y="11" type="line"/>
+      <point x="155" y="11"/>
+      <point x="432" y="726"/>
+      <point x="180" y="726" type="curve" smooth="yes"/>
+      <point x="157" y="726"/>
+      <point x="138" y="719"/>
+      <point x="118" y="704" type="curve"/>
+      <point x="284" y="545"/>
+      <point x="63" y="-30"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:22:52</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 23}</string>
+          <key>target</key>
+          <string>{0, 20}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{1089, -20}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>place</key>
+          <string>{220.95, 197.4}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{0, 2}</string>
+          <key>target</key>
+          <string>{0, 2}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

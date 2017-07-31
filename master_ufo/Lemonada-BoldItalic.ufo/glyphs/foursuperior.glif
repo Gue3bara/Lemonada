@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="2">
+  <advance width="469"/>
+  <unicode hex="2074"/>
+  <outline>
+    <component base="four.numr"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/09 00:45:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>place</key>
+          <string>{107, 194}</string>
+        </dict>
+        <dict>
+          <key>place</key>
+          <string>{221, 211}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{279, 113}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{193, 21}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{700, -20}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

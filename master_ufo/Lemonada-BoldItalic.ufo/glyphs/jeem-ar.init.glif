@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jeem-ar.init" format="2">
+  <advance width="865"/>
+  <unicode hex="FE9F"/>
+  <anchor x="270" y="-392" name="bottom"/>
+  <anchor x="433" y="630" name="top"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="dotbelow-ar" xOffset="267" yOffset="-42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 13:48:49</string>
+    </dict>
+  </lib>
+</glyph>

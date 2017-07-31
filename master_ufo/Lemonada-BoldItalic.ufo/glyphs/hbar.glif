@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="763"/>
+  <unicode hex="0127"/>
+  <anchor x="263" y="725" name="top"/>
+  <anchor x="249" y="612" name="center"/>
+  <anchor x="377" y="0" name="bottom"/>
+  <outline>
+    <component base="h.alt"/>
+    <component base="strokeshortcomb.alt" yOffset="248"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/09 00:45:42</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

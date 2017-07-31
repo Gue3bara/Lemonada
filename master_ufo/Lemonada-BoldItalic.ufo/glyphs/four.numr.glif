@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.numr" format="2">
+  <advance width="469"/>
+  <outline>
+    <contour>
+      <point x="187" y="330" type="curve" smooth="yes"/>
+      <point x="234" y="330"/>
+      <point x="296" y="340"/>
+      <point x="335" y="351" type="curve"/>
+      <point x="335" y="428" type="line"/>
+      <point x="196" y="428" type="line"/>
+      <point x="287" y="493"/>
+      <point x="331" y="566"/>
+      <point x="331" y="620" type="curve" smooth="yes"/>
+      <point x="331" y="680"/>
+      <point x="301" y="710"/>
+      <point x="239" y="710" type="curve" smooth="yes"/>
+      <point x="219" y="710"/>
+      <point x="176" y="701"/>
+      <point x="154" y="693" type="curve"/>
+      <point x="157" y="688"/>
+      <point x="159" y="681"/>
+      <point x="159" y="668" type="curve" smooth="yes"/>
+      <point x="159" y="587"/>
+      <point x="50" y="475"/>
+      <point x="50" y="412" type="curve" smooth="yes"/>
+      <point x="50" y="361"/>
+      <point x="101" y="330"/>
+    </contour>
+    <contour>
+      <point x="377" y="272" type="curve" smooth="yes"/>
+      <point x="415" y="272"/>
+      <point x="445" y="280"/>
+      <point x="481" y="299" type="curve"/>
+      <point x="474" y="318"/>
+      <point x="470" y="332"/>
+      <point x="470" y="359" type="curve" smooth="yes"/>
+      <point x="470" y="448"/>
+      <point x="515" y="543"/>
+      <point x="515" y="572" type="curve" smooth="yes"/>
+      <point x="515" y="595"/>
+      <point x="505" y="600"/>
+      <point x="469" y="600" type="curve" smooth="yes"/>
+      <point x="431" y="600"/>
+      <point x="379" y="583"/>
+      <point x="358" y="565" type="curve"/>
+      <point x="328" y="516"/>
+      <point x="289" y="431"/>
+      <point x="289" y="375" type="curve" smooth="yes"/>
+      <point x="289" y="309"/>
+      <point x="321" y="272"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/09 00:45:29</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=four-20</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=four-20</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 22}</string>
+          <key>target</key>
+          <string>{0, 4}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{1, 17}</string>
+          <key>target</key>
+          <string>{1, 5}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{0, 16}</string>
+          <key>target</key>
+          <string>{0, 7}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

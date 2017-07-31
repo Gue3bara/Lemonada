@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam-ar.fina" format="2">
+  <advance width="861"/>
+  <unicode hex="FEDE"/>
+  <anchor x="311" y="-380" name="bottom"/>
+  <anchor x="734" y="850" name="top"/>
+  <outline>
+    <contour>
+      <point x="756" y="-25" type="curve" smooth="yes"/>
+      <point x="811" y="-25" type="line"/>
+      <point x="825" y="60" type="line"/>
+      <point x="801" y="60" type="line" smooth="yes"/>
+      <point x="735" y="60"/>
+      <point x="698" y="108"/>
+      <point x="698" y="174" type="curve" smooth="yes"/>
+      <point x="698" y="200"/>
+      <point x="705" y="239"/>
+      <point x="712" y="280" type="curve"/>
+      <point x="613" y="27" type="line"/>
+      <point x="700" y="27" type="line"/>
+      <point x="666" y="44" type="line"/>
+      <point x="680" y="4"/>
+      <point x="709" y="-25"/>
+    </contour>
+    <component base="lam-ar" xOffset="-1"/>
+    <component base="connection_r" xOffset="811"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 14:54:29</string>
+    </dict>
+  </lib>
+</glyph>

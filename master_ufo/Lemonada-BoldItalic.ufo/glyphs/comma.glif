@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+  <advance width="332"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="27" y="-196" type="line"/>
+      <point x="185" y="-163"/>
+      <point x="284" y="-44"/>
+      <point x="284" y="93" type="curve" smooth="yes"/>
+      <point x="284" y="153"/>
+      <point x="245" y="208"/>
+      <point x="177" y="208" type="curve" smooth="yes"/>
+      <point x="109" y="208"/>
+      <point x="51" y="152"/>
+      <point x="48" y="88" type="curve"/>
+      <point x="118" y="-2" type="line"/>
+      <point x="118" y="-51"/>
+      <point x="78" y="-121"/>
+      <point x="12" y="-152" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/29 23:48:27</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>origin</key>
+          <string>{0, 8}</string>
+          <key>target</key>
+          <string>{0, 2}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 9}</string>
+          <key>target</key>
+          <string>{0, 5}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

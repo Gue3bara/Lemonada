@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaFatha-ar" format="2">
+  <advance width="319"/>
+  <anchor x="208" y="555" name="_top"/>
+  <anchor x="266" y="924" name="top"/>
+  <outline>
+    <component base="shadda-ar" xOffset="2"/>
+    <component base="fatha-ar" xOffset="47" yOffset="285"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/04 00:41:08</string>
+    </dict>
+  </lib>
+</glyph>

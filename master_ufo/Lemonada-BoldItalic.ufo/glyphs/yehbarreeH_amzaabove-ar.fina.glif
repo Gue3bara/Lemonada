@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehbarreeHamzaabove-ar.fina" format="2">
+  <advance width="801"/>
+  <unicode hex="FBB1"/>
+  <anchor x="292" y="-425" name="bottom"/>
+  <anchor x="249" y="690" name="top"/>
+  <outline>
+    <component base="yehbarree-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="32" yOffset="-246"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:16:40</string>
+    </dict>
+  </lib>
+</glyph>

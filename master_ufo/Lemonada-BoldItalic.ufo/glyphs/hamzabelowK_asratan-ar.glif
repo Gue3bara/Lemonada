@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzabelowKasratan-ar" format="2">
+  <advance width="316"/>
+  <outline>
+    <component base="hamzabelow-ar"/>
+    <component base="kasratan-ar" xOffset="-42" yOffset="-283"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/12/04 00:17:38</string>
+    </dict>
+  </lib>
+</glyph>

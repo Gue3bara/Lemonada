@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessbeh-ar.medi" format="2">
+  <advance width="366"/>
+  <anchor x="91" y="-85" name="bottom"/>
+  <anchor x="201" y="600" name="top"/>
+  <outline>
+    <contour>
+      <point x="-49" y="-25" type="line"/>
+      <point x="129" y="-25" type="line"/>
+      <point x="163" y="27" type="line"/>
+      <point x="189" y="27" type="line"/>
+      <point x="162" y="44" type="line"/>
+      <point x="176" y="4"/>
+      <point x="205" y="-25"/>
+      <point x="252" y="-25" type="curve" smooth="yes"/>
+      <point x="316" y="-25" type="line"/>
+      <point x="330" y="60" type="line"/>
+      <point x="294" y="60" type="line" smooth="yes"/>
+      <point x="228" y="60"/>
+      <point x="191" y="106"/>
+      <point x="191" y="179" type="curve" smooth="yes"/>
+      <point x="191" y="260"/>
+      <point x="236" y="393"/>
+      <point x="236" y="466" type="curve" smooth="yes"/>
+      <point x="236" y="508"/>
+      <point x="221" y="530"/>
+      <point x="189" y="530" type="curve" smooth="yes"/>
+      <point x="169" y="530"/>
+      <point x="147" y="521"/>
+      <point x="127" y="508" type="curve"/>
+      <point x="132" y="487"/>
+      <point x="136" y="462"/>
+      <point x="136" y="436" type="curve" smooth="yes"/>
+      <point x="136" y="336"/>
+      <point x="77" y="128"/>
+      <point x="76" y="61" type="curve" smooth="yes"/>
+      <point x="76" y="33" type="line"/>
+      <point x="103" y="60" type="line"/>
+      <point x="-35" y="60" type="line"/>
+    </contour>
+    <component base="connection_r" xOffset="316"/>
+    <component base="connection_l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:22:26</string>
+    </dict>
+  </lib>
+</glyph>

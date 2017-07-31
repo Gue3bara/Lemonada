@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefWasla-ar" format="2">
+  <advance width="426"/>
+  <unicode hex="0671"/>
+  <anchor x="172" y="-100" name="bottom"/>
+  <anchor x="322" y="1188" name="top"/>
+  <outline>
+    <component base="alef-ar.short"/>
+    <component base="wasla-ar" xOffset="74" yOffset="243"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/22 00:34:12</string>
+    </dict>
+  </lib>
+</glyph>

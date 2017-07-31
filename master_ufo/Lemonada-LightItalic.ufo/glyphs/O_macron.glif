@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="2">
+  <advance width="737"/>
+  <unicode hex="014C"/>
+  <anchor x="535" y="979" name="top"/>
+  <anchor x="24" y="710" name="topleft"/>
+  <anchor x="498" y="10" name="ogonek"/>
+  <anchor x="357" y="0" name="bottom"/>
+  <anchor x="610" y="610" name="topright"/>
+  <anchor x="407" y="355" name="center"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb" xOffset="228" yOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/18 16:59:44</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

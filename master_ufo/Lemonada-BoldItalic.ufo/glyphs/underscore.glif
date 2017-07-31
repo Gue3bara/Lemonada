@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+  <advance width="679"/>
+  <unicode hex="005F"/>
+  <outline>
+    <component base="endash" xOffset="-63" yOffset="-400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/09 00:44:24</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>endash</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>endash</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{-158, 139}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{-6, -20}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{-25, 21}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{-182, 21}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

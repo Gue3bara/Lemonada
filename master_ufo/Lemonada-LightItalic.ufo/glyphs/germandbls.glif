@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="2">
+  <advance width="681"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="139" y="-210" type="curve" smooth="yes"/>
+      <point x="163" y="-210"/>
+      <point x="190" y="-201"/>
+      <point x="204" y="-187" type="curve"/>
+      <point x="191" y="-176"/>
+      <point x="185" y="-156"/>
+      <point x="185" y="-130" type="curve" smooth="yes"/>
+      <point x="185" y="-77"/>
+      <point x="216" y="132"/>
+      <point x="272" y="442" type="curve" smooth="yes"/>
+      <point x="308" y="619"/>
+      <point x="351" y="676"/>
+      <point x="449" y="676" type="curve" smooth="yes"/>
+      <point x="516" y="676"/>
+      <point x="563" y="627"/>
+      <point x="563" y="557" type="curve" smooth="yes"/>
+      <point x="563" y="486"/>
+      <point x="514" y="416"/>
+      <point x="439" y="379" type="curve"/>
+      <point x="509" y="347"/>
+      <point x="545" y="288"/>
+      <point x="545" y="203" type="curve" smooth="yes"/>
+      <point x="545" y="108"/>
+      <point x="480" y="38"/>
+      <point x="391" y="38" type="curve" smooth="yes"/>
+      <point x="337" y="38"/>
+      <point x="290" y="75"/>
+      <point x="281" y="123" type="curve"/>
+      <point x="256" y="105"/>
+      <point x="240" y="80"/>
+      <point x="240" y="58" type="curve" smooth="yes"/>
+      <point x="240" y="6"/>
+      <point x="294" y="-25"/>
+      <point x="389" y="-25" type="curve" smooth="yes"/>
+      <point x="547" y="-25"/>
+      <point x="642" y="59"/>
+      <point x="642" y="197" type="curve" smooth="yes"/>
+      <point x="642" y="287"/>
+      <point x="584" y="366"/>
+      <point x="502" y="389" type="curve"/>
+      <point x="604" y="435"/>
+      <point x="656" y="498"/>
+      <point x="656" y="579" type="curve" smooth="yes"/>
+      <point x="656" y="666"/>
+      <point x="572" y="725"/>
+      <point x="449" y="725" type="curve" smooth="yes"/>
+      <point x="303" y="725"/>
+      <point x="210" y="642"/>
+      <point x="183" y="485" type="curve" smooth="yes"/>
+      <point x="126" y="155"/>
+      <point x="90" y="-76"/>
+      <point x="90" y="-129" type="curve" smooth="yes"/>
+      <point x="90" y="-185"/>
+      <point x="104" y="-210"/>
+    </contour>
+    <contour>
+      <point x="112" y="329" type="curve" smooth="yes"/>
+      <point x="148" y="329"/>
+      <point x="212" y="338"/>
+      <point x="238" y="347" type="curve"/>
+      <point x="225" y="421" type="line"/>
+      <point x="190" y="414"/>
+      <point x="171" y="412"/>
+      <point x="140" y="412" type="curve" smooth="yes"/>
+      <point x="111" y="412"/>
+      <point x="84" y="415"/>
+      <point x="67" y="422" type="curve"/>
+      <point x="56" y="406"/>
+      <point x="50" y="390"/>
+      <point x="50" y="371" type="curve" smooth="yes"/>
+      <point x="50" y="343"/>
+      <point x="71" y="329"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:22:52</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>place</key>
+          <string>{75, 310.5}</string>
+        </dict>
+        <dict>
+          <key>place</key>
+          <string>{783, 222}</string>
+        </dict>
+        <dict>
+          <key>place</key>
+          <string>{811.5, 261}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{937.5, 225}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{-315, 21}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 1}</string>
+          <key>target</key>
+          <string>{1, 2}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

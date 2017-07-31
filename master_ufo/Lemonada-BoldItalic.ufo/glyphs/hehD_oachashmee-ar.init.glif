@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehDoachashmee-ar.init" format="2">
+  <advance width="1270"/>
+  <unicode hex="FBAC"/>
+  <anchor x="461" y="-200" name="bottom"/>
+  <anchor x="786" y="836" name="top"/>
+  <outline>
+    <component base="heh-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:12:30</string>
+    </dict>
+  </lib>
+</glyph>

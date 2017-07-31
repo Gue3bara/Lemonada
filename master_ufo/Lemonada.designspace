@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="110" maximum="200" minimum="110" name="weight" tag="wght">
+            <map input="110" output="110" />
+            <map input="128" output="128" />
+            <map input="172" output="172" />
+            <map input="200" output="200" />
+            <labelname xml:lang="en">Weight</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="Lemonada" filename="Lemonada-LightItalic.ufo" name="Lemonada Light Italic" stylename="Light Italic">
+            <lib copy="1" />
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="110.000000" />
+            </location>
+        </source>
+        <source familyname="Lemonada" filename="Lemonada-BoldItalic.ufo" name="Lemonada Bold Italic" stylename="Bold Italic">
+            <location>
+                <dimension name="weight" xvalue="200.000000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Lemonada" filename="../instance_ufo/Lemonada-Light.ufo" name="Lemonada Light" stylename="Light">
+            <location>
+                <dimension name="weight" xvalue="110.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Lemonada" filename="../instance_ufo/Lemonada-Regular.ufo" name="Lemonada Regular" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="128.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Lemonada" filename="../instance_ufo/Lemonada-SemiBold.ufo" name="Lemonada SemiBold" stylename="SemiBold">
+            <location>
+                <dimension name="weight" xvalue="172.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Lemonada" filename="../instance_ufo/Lemonada-Bold.ufo" name="Lemonada Bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="200.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+    </instances>
+</designspace>

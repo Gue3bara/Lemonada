@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute" format="2">
+  <advance width="832"/>
+  <unicode hex="01FC"/>
+  <anchor x="656" y="1020" name="top"/>
+  <anchor x="490" y="0" name="bottom"/>
+  <outline>
+    <component base="AE"/>
+    <component base="acutecomb" xOffset="397" yOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/09 00:41:03</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

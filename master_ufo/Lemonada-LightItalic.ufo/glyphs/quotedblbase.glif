@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="2">
+  <advance width="543"/>
+  <unicode hex="201E"/>
+  <outline>
+    <component base="comma"/>
+    <component base="comma" xOffset="209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/18 16:59:44</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>comma</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>comma</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

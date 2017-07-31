@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessbeh-ar.fina" format="2">
+  <advance width="1205"/>
+  <anchor x="502" y="-85" name="bottom"/>
+  <anchor x="607" y="575" name="top"/>
+  <outline>
+    <contour>
+      <point x="1036" y="-25" type="curve" smooth="yes"/>
+      <point x="1155" y="-25" type="line"/>
+      <point x="1181" y="136" type="line"/>
+      <point x="1075" y="136" type="line" smooth="yes"/>
+      <point x="1030" y="136"/>
+      <point x="1008" y="161"/>
+      <point x="1008" y="206" type="curve" smooth="yes"/>
+      <point x="1008" y="227"/>
+      <point x="1013" y="254"/>
+      <point x="1019" y="281" type="curve"/>
+      <point x="880" y="27" type="line"/>
+      <point x="1015" y="27" type="line"/>
+      <point x="942" y="78" type="line"/>
+      <point x="942" y="8"/>
+      <point x="970" y="-25"/>
+    </contour>
+    <component base="dotlessbeh-ar"/>
+    <component base="connection_r" xOffset="1154"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:22:26</string>
+    </dict>
+  </lib>
+</glyph>

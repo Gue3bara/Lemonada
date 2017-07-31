@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero-ar" format="2">
+  <advance width="357"/>
+  <unicode hex="0660"/>
+  <outline>
+    <component base="period" xScale="1.102" yScale="1.102" xOffset="9" yOffset="182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/29 15:58:17</string>
+    </dict>
+  </lib>
+</glyph>

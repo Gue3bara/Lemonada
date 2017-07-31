@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave" format="2">
+  <advance width="1061"/>
+  <unicode hex="1E80"/>
+  <anchor x="585" y="1021" name="top"/>
+  <anchor x="460" y="0" name="bottom"/>
+  <outline>
+    <component base="W"/>
+    <component base="gravecomb" xOffset="397" yOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/11 12:35:42</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghain-ar.fina" format="2">
+  <advance width="936"/>
+  <unicode hex="FECE"/>
+  <anchor x="309" y="-570" name="bottom"/>
+  <anchor x="503" y="999" name="top"/>
+  <outline>
+    <component base="ain-ar.fina"/>
+    <component base="dotabove-ar" xOffset="289" yOffset="69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 14:47:09</string>
+    </dict>
+  </lib>
+</glyph>

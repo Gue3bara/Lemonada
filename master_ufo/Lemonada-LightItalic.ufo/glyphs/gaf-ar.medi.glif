@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gaf-ar.medi" format="2">
+  <advance width="982"/>
+  <unicode hex="FB95"/>
+  <anchor x="305" y="-100" name="bottom"/>
+  <anchor x="461" y="921" name="top"/>
+  <outline>
+    <component base="kaf-ar.medi"/>
+    <component base="diagonal" xOffset="51" yOffset="199"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 14:53:57</string>
+    </dict>
+  </lib>
+</glyph>

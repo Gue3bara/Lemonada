@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three-persian" format="2">
+  <advance width="744"/>
+  <unicode hex="06F3"/>
+  <outline>
+    <component base="three-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/29 16:44:28</string>
+    </dict>
+  </lib>
+</glyph>

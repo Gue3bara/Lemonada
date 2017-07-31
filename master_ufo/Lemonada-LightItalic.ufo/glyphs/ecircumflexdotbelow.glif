@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexdotbelow" format="2">
+  <advance width="647"/>
+  <unicode hex="1EC7"/>
+  <anchor x="469" y="868" name="top"/>
+  <anchor x="429" y="0" name="ogonek"/>
+  <anchor x="277" y="-207" name="bottom"/>
+  <outline>
+    <component base="e"/>
+    <component base="dotbelowcomb" xOffset="290"/>
+    <component base="circumflexcomb" xOffset="209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/09 00:42:05</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

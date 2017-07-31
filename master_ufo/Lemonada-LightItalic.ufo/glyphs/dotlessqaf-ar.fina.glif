@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessqaf-ar.fina" format="2">
+  <advance width="1175"/>
+  <anchor x="438" y="-479" name="bottom"/>
+  <anchor x="858" y="675" name="top"/>
+  <outline>
+    <contour>
+      <point x="869" y="-25" type="line"/>
+      <point x="1125" y="-25" type="line"/>
+      <point x="1139" y="60" type="line"/>
+      <point x="942" y="60" type="line"/>
+    </contour>
+    <component base="dotlessqaf-ar"/>
+    <component base="connection_r" xOffset="1125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 14:50:14</string>
+    </dict>
+  </lib>
+</glyph>

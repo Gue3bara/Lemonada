@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehHamzaabove-ar.fina" format="2">
+  <advance width="1078"/>
+  <unicode hex="FE8A"/>
+  <anchor x="429" y="-370" name="bottom"/>
+  <anchor x="257" y="614" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="18" yOffset="-258"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/06/14 15:15:39</string>
+    </dict>
+  </lib>
+</glyph>

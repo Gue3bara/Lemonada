@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+  <advance width="534"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="277" y="333" type="curve" smooth="yes"/>
+      <point x="441" y="333"/>
+      <point x="543" y="435"/>
+      <point x="543" y="571" type="curve" smooth="yes"/>
+      <point x="543" y="643"/>
+      <point x="511" y="696"/>
+      <point x="443" y="696" type="curve" smooth="yes"/>
+      <point x="406" y="696"/>
+      <point x="372" y="678"/>
+      <point x="352" y="649" type="curve"/>
+      <point x="387" y="616"/>
+      <point x="400" y="581"/>
+      <point x="400" y="540" type="curve" smooth="yes"/>
+      <point x="400" y="473"/>
+      <point x="365" y="422"/>
+      <point x="314" y="422" type="curve" smooth="yes"/>
+      <point x="268" y="422"/>
+      <point x="247" y="456"/>
+      <point x="247" y="514" type="curve" smooth="yes"/>
+      <point x="247" y="618"/>
+      <point x="320" y="691"/>
+      <point x="407" y="701" type="curve"/>
+      <point x="409" y="726"/>
+      <point x="404" y="747"/>
+      <point x="397" y="761" type="curve"/>
+      <point x="378" y="767"/>
+      <point x="355" y="770"/>
+      <point x="338" y="770" type="curve" smooth="yes"/>
+      <point x="185" y="770"/>
+      <point x="73" y="665"/>
+      <point x="73" y="521" type="curve" smooth="yes"/>
+      <point x="73" y="406"/>
+      <point x="152" y="333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/18 16:59:44</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>place</key>
+          <string>{31, 143}</string>
+        </dict>
+        <dict>
+          <key>place</key>
+          <string>{351, 112}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{289, 101}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{631, 100}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
