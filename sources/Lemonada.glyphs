@@ -1,8 +1,5 @@
 {
-.appVersion = "1264";
-DisplayStrings = (
-"/Cacute/Ccaron Ç/Ccircumflex/Cdotaccent/Gbreve/Gcircumflex/Gcommaaccent/Gdotaccent/IJ Í/Ibreve ÎÏ/Idotaccent/Idotbelow Ì/Ihookabove/Imacron/Iogonek/Itilde/Nacute/Ncaron/Ncommaaccent ÑÚ/Ubreve ÛÜ/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Umacron/Uogonek/Uring/Utilde/aeacute"
-);
+.appVersion = "1342";
 classes = (
 {
 code = "";
@@ -477,7 +474,7 @@ value = 1345;
 },
 {
 name = typoDescender;
-value = 653;
+value = -653;
 },
 {
 name = typoLineGap;
@@ -557,7 +554,7 @@ value = 1345;
 },
 {
 name = typoDescender;
-value = 653;
+value = -653;
 },
 {
 name = typoLineGap;
@@ -618,7 +615,7 @@ value = 1345;
 },
 {
 name = typoDescender;
-value = 653;
+value = -653;
 },
 {
 name = typoLineGap;
@@ -107303,6 +107300,15 @@ instanceInterpolations = {
 "CE369AAB-0FC9-4F25-BC24-38D80C2A37D0" = 1;
 };
 name = Regular;
+},
+{
+interpolationWeight = 150;
+instanceInterpolations = {
+"CE369AAB-0FC9-4F25-BC24-38D80C2A37D0" = 0.69444;
+"E79706D4-AD71-4087-AB75-377D41BAFC4F" = 0.30556;
+};
+name = Medium;
+weightClass = Medium;
 },
 {
 interpolationWeight = 172;
